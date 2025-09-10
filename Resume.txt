@@ -1,0 +1,116 @@
+Powered by ResumeGemini
+Sunkar Vivek Kumar
+Summary
+7 years of Experience on Oracle applications development using oracle RDBMS with solid understanding of SDLC and agile
+methodologies . Work experience in LARA Booking and Documentation,Invoicing and Quotation modules. Experience in
+design of UI using oracle forms and involved in Version control and deployment activity. Enhancement of PL/SQL codes in
+Oracle forms and Reports in Oracle database. Good Experience writing Packages, Procedures, Triggers, functions ,views
+,Ref Cursor and exception Handling. 1.8 years of work experience in building BI products, maintaining data pipelines,
+scheduling cron jobs, data visualizations, insights generation and also a GCP Certified Data Engineer
+Skills
+Oracle Forms Oracle Database 10g/11g PL/SQL SQL Sybase ASEOLEDB Sybase servers
+Stored Procedures Automation ETL Loads using SSIS Auditing of ETL loads in backend using SSMS
+Data Visualization using PLX Creating various BI Products GCP Oracle PlSQL Developer TOAD Gitlab
+Git Runner Scheduler jobs Performance tuning Parallel execution EHR load Python Oracle Reports
+Unix Shell Scripting and E2E/Unit testing RDBMS AWS Amazon RDS DataFlow NoSQL (MongoDB) SDLC
+Agile methodologies BitBucket ETL Star Schema Fact and Dimension tables Oracle SQL Developer
+Microsoft SQL Server (SSIS SSMS) Functions Cursors Views Triggers PL/SQL packages Word
+Powerpoint Serena Dimension
+Education
+National Institute Of Technology, Rourkela
+B.Tech and M.Tech - Dual Degree inChemical Engineering, CGPA: 8.16/10
+2018 | Rourkela, Odisha
+Council Of Higher Secondary Education, Odisha
+Intermediate in Science and Maths
+May 2012 | Odisha
+Percentage: 80.67
+Indian Certificate Of Secondary Education, New Delhi
+Matriculation
+May 2010 | New Delhi
+Percentage: 92.85
+Experience
+Infosys Limited
+Technology Analyst
+Aug 2018 - Dec 2021 | Bhubaneswar
+HashedIn by Deloitte
+Software Engineer II
+Jan 2022 - Jun 2022 | Bengaluru
+ Bengaluru
+ 8455084901  sunkar.vivek.kumar@gmail.com
+ linkedin.com/in/vivek-kumar-9752881b7/  https://github.com/Vivek-data-scientist
+Powered by ResumeGemini
+Fractal Analytics Pvt. Ltd
+Consultant (AI/ML)
+Jun 2022 - Jan 2024 | Bengaluru
+IQVIA RDS Pvt. Ltd
+Software Development Engineer 3
+Jan 2024 - Jun 2025 | Bengaluru
+Hexaware Technologies
+Data Integration Lead
+Jun 2025 | Bengaluru
+Awards
+Project AQUA was awarded best project of year 2021 during my stint at Infosys , also rewarded with INSTA award for
+exceptional all round performance in delivering critical requirements as part of production support.
+Rewarded with Spot award for exceptional all round performance with minimal guidance during my stint at HashedIn
+Technologies.
+Rewarded with Orion award (cash prize of INR 3000) for exceptional performance in first 6 months during my stint at
+Fractal Analytics.
+Projects
+LARA (Liner Agents and Real time Application), Application Developer, Oracle Forms, Oracle Database 10g/11g,
+PL/SQL,
+Worked as a Developer for designing user interface forms for application using Oracle Forms and PL/SQL in agile
+methodology of SDLC,
+Developed and maintained SQL code for database systems, with optimal response, analyzed complex data and designed
+efficient database models., Strong in Unix Shell Scripting, created optimized SQL query, stored procedures and functions.,
+Performance Improvement by tuning stored procedures, cursors using DBMS PROFILER, FORALL to reduce context
+switching.
+Good working experience in exception handling, processing bulk data using collections, efficient cursors and writing ad-
+hoc queries in Oracle Database using SQL.
+Designed simple packaging screens, item scanning screens, fields in User interface modules using oracle forms 10g/11g
+and backend control through PL/SQL.Prepared test cases for new development and done Unit testing.
+AQUA (Advanced Quotation Analytics Application), Database Developer and Production support, Oracle Forms,
+Oracle Database 10g/11g, PL/SQL, SQL
+Mentored a team of 3 members for Automation, UAT testing and production activity. Collaborated with stakeholders,
+business analysts and software developers to gather and understand database requirements.
+Database and scripting activities using DbGate, AWS RDS to create necessary database objects like tables, indexes,
+sequences etc. to help in development phase., Participated in code reviews to ensure adherence to coding standards.
+Maintained technical documentation for data models, schema diagrams etc.
+AIM Speciality Healthcare, Database Developer and Production support, Sybase ASEOLEDB, Sybase servers, Stored
+Procedures, Automation, DML/DDL Script tasks, ETL Loads using SSIS, Auditing of ETL loads in backend using
+SSMS
+Worked on analysis of requirements, as part of PI planning. Familiarity with ETL processes in carrying out critical data
+loads of CPT codes as part of RBM solution, having line of business as Commercial.
+Performed data analysis and profiling to identify quality issues and propose solutions for ETL load of treatment codes
+along with membership file load process for OPD, containing highly confidential PHI.
+Worked on load db and member procedure changes as part of some PSRs., Delivered adhoc scripts (DML/DDL) for
+staging dry run and into production environments.
+Google Youtube Partnerships Analytics and Data Science, BI Developer and Analytics Support, Data Visualization
+using PLX, data feed refresh of staging tables through ZugZug
+Powered by ResumeGemini
+Data Pipelines and Workflow Scheduling in Plx UI, Creating various BI Products, GCP, Strong Analytical and Problem
+solving approach to resolve complex data issues., Worked on data analysis of Youtube data, as part of Youtube
+partnerships team.
+Performed ETL by building new staging tables, helping data science team in surfacing key metrics in the BI products
+consumed by Alphabet leads and strategic partner managers.
+Automated monthly and weekly dashboards by building workflows and scheduling the cron jobs, thereby increasing the
+productivity., Market Analysis of youtube creators data enrolled under YPP program, using interactive visualization to share
+key insights to stakeholders.
+Data Warehousing and data lake creation with deep understanding of data modelling for both Dimensional and Relational
+concepts like Star- Schema Modeling, Snowflakes Modeling, fact and dimension tables.
+AHA/IRP American Heart Association - CAD, Software Development, Database Developer, Oracle PlSQL Developer,
+TOAD, GitLab, Git Runner
+Worked as part of 3 registries CAD, AFIB and Ambulatory Quality.
+Handled data processing of 0.4 million patient records on quarterly basis considering CPU utilization., Performance tuning
+of large data tables by creating indexes such as B-Tree index etc
+Maintained high quality BI Products in Reporting layer handled by Spotfire., Automated measure processing by writing
+PLSQL scripts, stored procedures, functions, materialized views.,
+Written PLSQL packages to implement new reports from scratch., Collaborated with stakeholders and team to carry on
+release specific activities in both DryRun and Production environment until the changes go live,
+Cross registry liquibase deployment using DBT ELT tool and storage in Snowflake as a cloud native data warehouse.,
+Knowledge on Snowflake UDFs and procedures, created Snow pipe for real time data processing from AWS S3.
+Certifications
+Microsoft Azure AI fundamentals (AI 900)
+Google Cloud Professional Data Engineer
+Snowflake Associate Platform Certification
+Language
+English:Fluent Telugu:Mother tongue Odia:Basic Knowledge Hindi:Basic Knowledge
